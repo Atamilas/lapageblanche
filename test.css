@@ -1,7 +1,7 @@
 
 body{ 
-	height: 1280px;
-	width:960px;
+	height: auto;
+	width:100%;
 	background: white;
 	margin: 70px;
 	margin-bottom: 15px;
