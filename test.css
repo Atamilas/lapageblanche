@@ -1,0 +1,62 @@
+
+body{ 
+	height: 1280px;
+	width:960px;
+	background: white;
+	margin: 70px;
+	margin-bottom: 15px;
+	padding: 10px;
+	border: 6px solid black;
+	} 
+
+	p{ 
+		color: black;
+		font-size: 12px;
+	} 
+.image { 
+		width: 900px;
+		height: 500px;
+		float: center;
+		} 
+
+.allez
+{ 
+		width: 20%;
+		height: 20%;
+		float: left;
+		} 
+
+
+.diap
+		{ 
+		width: 40%;
+		height: 40%;
+		float: right;
+		} 
+.tab{ 
+		border:2px solid black;
+		margin: 20px;
+		padding-bottom: 20px;
+		} 
+
+.services
+{ 
+	background-color: lightblue;
+	opacity: 100%;
+
+	border-top: 5px solid blue;
+	border-bottom: 5px solid blue;
+
+	margin: 5px;
+	padding-top: 25px;
+	padding-bottom: 30px;
+	} 
+
+
+
+	.footer
+	{ 
+	text-align: center;
+	margin: 15px;
+
+	} 
