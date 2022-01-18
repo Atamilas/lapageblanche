@@ -1,0 +1,27 @@
+
+body{ 
+	background: white;
+	margin: 40px;
+	padding: 50px;
+	border: 6px solid black;
+	} 
+
+	p{ 
+		color: black;
+		font-size: 12px;
+	} 
+.image { 
+		width: 100%;
+		height: 100%;
+		float: center;
+		} 
+
+.diap
+		{ 
+		width: 40%;
+		height: 40%;
+		float: right;
+		} 
+.tab{ 
+		border:2px solid black;
+		} 
