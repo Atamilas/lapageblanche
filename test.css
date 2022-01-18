@@ -6,6 +6,9 @@ body{
 	margin: 70px;
 	margin-bottom: 15px;
 	padding: 10px;
+	background: white;
+	margin: 40px;
+	padding: 50px;
 	border: 6px solid black;
 	} 
 
@@ -25,7 +28,6 @@ body{
 		height: 20%;
 		float: left;
 		} 
-
 
 .diap
 		{ 
@@ -60,3 +62,4 @@ body{
 	margin: 15px;
 
 	} 
+	
